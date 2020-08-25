@@ -4,6 +4,8 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
 
 
+
+2344
   </div>
 </template>
 
